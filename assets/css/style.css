@@ -1,0 +1,51 @@
+body {
+  padding: 0 4em;
+}
+
+.banner-img {
+  height: 30em;
+  width: 100%;
+  margin-top: 2em;
+}
+
+.function-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  border: 1px solid #0d6efd;
+  margin-bottom: 1em;
+  padding: 2em 0;
+}
+
+.todo {
+  border: 1px solid #0d6efd;
+}
+
+#left-panel {
+  background-color: #f7f7f7;
+  padding: 0;
+  margin: 0;
+}
+
+#left-panel .mhs {
+  text-align: center;
+}
+
+.left-panel-item {
+  padding: 0;
+  border: none;
+}
+
+.tacvu-hocsinh-btn {
+  margin-top: 2em;
+  height: 5em;
+  width: 20em;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
